@@ -1,0 +1,15 @@
+The Application should be de-couple , decoupling should be maintain so when we need to change
+we can make it without any issue (Decoupling the Application)
+
+We should make losely coupled
+High level module should not import anything from low level module both should depend on the abstraction and interface
+abstraction should not depend on the details (concrete implementation)
+
+controller -> service -> repository (data layer) -> database
+
+it will violate the dependency inversion rule
+
+This is the Dependency inversion the dependency is inverted ( ulta gairaxa ) 
+controller -> service -> interface -> repository -> database
+
+controller -> interface -> service -> interface -> repository -> database
