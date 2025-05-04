@@ -1,0 +1,8 @@
+A class should have only one reason to be changed.
+Only one Reason to Change (Remember It)? 
+
+Because of confusion around the word "reason", he later clarified his meaning in a blog post titled "The Single Responsibility Principle", in which he mentioned Separation of Concerns and stated that "Another wording for the Single Responsibility Principle is: Gather together the things that change for the same reasons. Separate those things that change for different reasons."[3] In some of his talks, he also argues that the principle is, in particular, about roles or actors. For example, while they might be the same person, the role of an accountant is different from a database administrator. Hence, each module should be responsible for each role.
+
+
+Inventory, Sales and Finance Department 
+Three Source or Three Reason are commulating to the Change the Class
