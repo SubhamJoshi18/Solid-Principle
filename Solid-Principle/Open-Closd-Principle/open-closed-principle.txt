@@ -1,0 +1,1 @@
+Software Entities (classes, modules ,function) should be open but closed for modification
