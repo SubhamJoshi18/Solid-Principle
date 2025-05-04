@@ -1,0 +1,8 @@
+Parent Class Should be Replace with all the Sub Class should not violate the Code
+
+In Parent Class there should be one method where all the sub class or inherited class should be align and follow the same behaviour of that method
+
+Parent Class Should Contain the General Methods
+
+Give the Example of the RBAC Pattern 
+BaseUser - Super Admin - Admin - User - Customer
